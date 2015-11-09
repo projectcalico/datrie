@@ -5,3 +5,5 @@ src/*.html
 
 *.so
 build/
+*.egg-info
+dist
