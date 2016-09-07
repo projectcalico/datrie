@@ -1,2 +1,2 @@
-FROM paultiplady/centos-python-rpm-builder:master
+FROM calico/centos-python-rpm-builder
 
